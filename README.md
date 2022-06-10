@@ -27,4 +27,4 @@ $ git clone https://github.com/ekempf0/revproject2
 - Lowson Merilien
 
 ### Usage
-The program should be used to demonstrate the CRUD operations on a database
+The program should be used to emulate the process of deriving meaningful information from big data.
