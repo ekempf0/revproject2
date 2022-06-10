@@ -1,7 +1,7 @@
 # Project 2: Spark-Scala 
 
 ### Project Description
-This is our first project for Revature. A simple command-line terminal program to demonstrate the use of databases and database interactions.
+This is our second project for Revature, built to emulate big data utilization. This program takes 10,000 entities and processes them down to meaningful and actionable information.
 
 ### Technologies Used
 - Scala
@@ -9,9 +9,7 @@ This is our first project for Revature. A simple command-line terminal program t
 - IntelliJ
 
 ### Features
-- Accomadates multiple users, and provides specific functionalities per user through user logins
 - Provides the user with an easy to use menu to accomplish other features
-- Perform CRUD Operations
 - Allow for operations to be performed on large datasets to derive actionable information
 - Display information found visually for easier viewing
 
