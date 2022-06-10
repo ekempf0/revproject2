@@ -4,16 +4,16 @@
 This is our first project for Revature. A simple command-line terminal program to demonstrate the use of databases and database interactions.
 
 ### Technologies Used
-Scala
-Spark
-IntelliJ
+- Scala
+- Spark
+- IntelliJ
 
 ### Features
-Accomadates multiple users, and provides specific functionalities per user through user logins
-Provides the user with an easy to use menu to accomplish other features
-Perform CRUD Operations
-Allow for operations to be performed on large datasets to derive actionable information
-Display information found visually for easier viewing
+- Accomadates multiple users, and provides specific functionalities per user through user logins
+- Provides the user with an easy to use menu to accomplish other features
+- Perform CRUD Operations
+- Allow for operations to be performed on large datasets to derive actionable information
+- Display information found visually for easier viewing
 
 ### To-do list:
 
