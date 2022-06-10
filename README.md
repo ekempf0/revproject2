@@ -23,5 +23,10 @@ This is our first project for Revature. A simple command-line terminal program t
 ### Getting Started
 $ git clone https://github.com/ekempf0/revproject2
 
+### Contributors
+- Tek Rimal
+- Tyller Mendoza
+- Lowson Merilien
+
 ### Usage
 The program should be used to demonstrate the CRUD operations on a database
