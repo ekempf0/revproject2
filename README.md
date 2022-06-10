@@ -1,5 +1,4 @@
-# revproject2
-Spark-Scala 
+# Project 2: Spark-Scala 
 
 ### Project Description
 This is our first project for Revature. A simple command-line terminal program to demonstrate the use of databases and database interactions.
