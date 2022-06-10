@@ -17,8 +17,8 @@ This is our first project for Revature. A simple command-line terminal program t
 
 ### To-do list:
 
-### Remove remaining hard code
-Develop a GUI for user ease
+- Remove remaining hard code
+- Develop a GUI for user ease
 
 ### Getting Started
 $ git clone https://github.com/ekempf0/revproject2
